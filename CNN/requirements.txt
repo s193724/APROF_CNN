@@ -1,0 +1,11 @@
+kaggle
+tensorflow
+scikit-learn
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+Pillow
+nbformat
+opencv-python
